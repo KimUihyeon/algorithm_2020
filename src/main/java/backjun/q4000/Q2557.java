@@ -7,8 +7,7 @@ package backjun.q4000;
  * @since 2020.02.14
  */
 public class Q2557 {
-    public void anwser(){
+    public static void main(String[] arg){
         System.out.println("Hello World!");
     }
 }
-

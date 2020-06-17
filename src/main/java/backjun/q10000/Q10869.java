@@ -1,0 +1,33 @@
+package backjun.q10000;
+
+import java.util.Scanner;
+
+/**
+ * 백준 알고리즘 10869
+ *
+ * @author Kimuihyeon
+ * @since 2020.06.17
+ *
+ * @Q
+ * 두 자연수 A와 B가 주어진다. 이때, A+B, A-B, A*B, A/B(몫), A%B(나머지)를 출력하는 프로그램을 작성하시오.
+ *
+ * @input
+ * 두 자연수 A와 B가 주어진다. (1 ≤ A, B ≤ 10,000)
+ *
+ * @output
+ * 첫째 줄에 A+B, 둘째 줄에 A-B, 셋째 줄에 A*B, 넷째 줄에 A/B, 다섯째 줄에 A%B를 출력한다.
+ *
+ */
+public class Q10869 {
+    public static void main(String[] arg) {
+        Scanner sc = new Scanner(System.in);
+        int case1 = sc.nextInt();
+        int case2 = sc.nextInt();
+
+        System.out.println(case1 + case2);
+        System.out.println(case1 - case2);
+        System.out.println(case1 * case2);
+        System.out.println(case1 / case2);
+        System.out.println(case1 % case2);
+    }
+}
