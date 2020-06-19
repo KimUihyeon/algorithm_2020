@@ -1,4 +1,4 @@
-package backjun.q10000;
+package baekjun.q10000;
 
 /**
  * 백준 알고리즘 10718

@@ -1,4 +1,4 @@
-package backjun.q2000;
+package baekjun.q2000;
 
 import java.util.Scanner;
 

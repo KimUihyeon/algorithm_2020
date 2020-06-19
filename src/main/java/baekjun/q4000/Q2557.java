@@ -1,4 +1,4 @@
-package backjun.q4000;
+package baekjun.q4000;
 
 /**
  * 백준 2557 문제 Hello world

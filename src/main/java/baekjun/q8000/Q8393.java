@@ -1,4 +1,4 @@
-package backjun.q8000;
+package baekjun.q8000;
 
 import java.util.Scanner;
 
