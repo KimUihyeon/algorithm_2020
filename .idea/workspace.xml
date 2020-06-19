@@ -20,11 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ac2a159-b1e5-4083-af7c-c29a16ffd2ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/backjun/q1000/Q1065.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/backjun/q10000/Q10871.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/backjun/q8000/Q8393.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/backjun/q10000/Q10039.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/backjun/q10000/Q11050.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/backjun/q10000/Q11051.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q2000/Q2884.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/backjun/q2000/Q2884.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/backjun/q1000/Q1000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/backjun/q1000/Q1000.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/backjun/q1000/Q1008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/backjun/q1000/Q1008.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/backjun/q10000/Q10171.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/backjun/q10000/Q10171.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/backjun/q10000/Q10172.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/backjun/q10000/Q10172.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/backjun/q10000/Q10430.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/backjun/q10000/Q10430.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/backjun/q10000/Q10718.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/backjun/q10000/Q10718.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/backjun/q10000/Q10869.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/backjun/q10000/Q10869.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/backjun/q10000/Q10998.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/backjun/q10000/Q10998.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/backjun/q4000/Q2557.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/backjun/q4000/Q2557.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q1000/Q1065.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/backjun/q1000/Q1065.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +89,20 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Q1065">
+  <component name="RunManager" selected="Application.Q11051">
+    <configuration name="Q10039" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjun.q10000.Q10039" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backjun.q10000.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Q1065" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backjun.q1000.Q1065" />
       <module name="Algorithm" />
@@ -106,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2588" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjun.q2000.Q2588" />
+    <configuration name="Q11050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjun.q10000.Q11050" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backjun.q2000.*" />
+          <option name="PATTERN" value="backjun.q10000.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,25 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2884" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjun.q2000.Q2884" />
+    <configuration name="Q11051" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjun.q10000.Q11051" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backjun.q2000.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q8393" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjun.q8000.Q8393" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="backjun.q8000.*" />
+          <option name="PATTERN" value="backjun.q10000.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q11051" />
+        <item itemvalue="Application.Q11050" />
+        <item itemvalue="Application.Q10039" />
         <item itemvalue="Application.Q1065" />
         <item itemvalue="Application.Q10871" />
-        <item itemvalue="Application.Q8393" />
-        <item itemvalue="Application.Q2884" />
-        <item itemvalue="Application.Q2588" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +176,8 @@
       <option name="presentableId" value="Default" />
       <updated>1592382895393</updated>
       <workItem from="1592382896868" duration="7167000" />
-      <workItem from="1592487283918" duration="3076000" />
+      <workItem from="1592487283918" duration="10056000" />
+      <workItem from="1592528051086" duration="147000" />
     </task>
     <servers />
   </component>
@@ -190,46 +201,50 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="602" y="247" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1592393626110" />
-    <state width="1877" height="206" key="GridCell.Tab.0.bottom" timestamp="1592490714506">
+    <state x="1222" y="430" width="435" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592496612132">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="206" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1592490714506" />
-    <state width="1877" height="206" key="GridCell.Tab.0.center" timestamp="1592490714506">
+    <state x="1222" y="430" width="435" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.40.1920.1040@0.40.1920.1040" timestamp="1592496612132" />
+    <state width="1877" height="346" key="GridCell.Tab.0.bottom" timestamp="1592500706713">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="206" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1592490714506" />
-    <state width="1877" height="206" key="GridCell.Tab.0.left" timestamp="1592490714506">
+    <state width="1877" height="346" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1592500706713" />
+    <state width="1877" height="346" key="GridCell.Tab.0.center" timestamp="1592500706712">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="206" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1592490714506" />
-    <state width="1877" height="206" key="GridCell.Tab.0.right" timestamp="1592490714506">
+    <state width="1877" height="346" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1592500706712" />
+    <state width="1877" height="346" key="GridCell.Tab.0.left" timestamp="1592500706712">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="206" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1592490714506" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1592490411619">
+    <state width="1877" height="346" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1592500706712" />
+    <state width="1877" height="346" key="GridCell.Tab.0.right" timestamp="1592500706712">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1592490411619" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1592490411619">
+    <state width="1877" height="346" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1592500706712" />
+    <state width="1877" height="346" key="GridCell.Tab.1.bottom" timestamp="1592500706713">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.center/0.40.1920.1040@0.40.1920.1040" timestamp="1592490411619" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1592490411619">
+    <state width="1877" height="346" key="GridCell.Tab.1.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1592500706713" />
+    <state width="1877" height="346" key="GridCell.Tab.1.center" timestamp="1592500706713">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.left/0.40.1920.1040@0.40.1920.1040" timestamp="1592490411619" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1592490411619">
+    <state width="1877" height="346" key="GridCell.Tab.1.center/0.40.1920.1040@0.40.1920.1040" timestamp="1592500706713" />
+    <state width="1877" height="346" key="GridCell.Tab.1.left" timestamp="1592500706713">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.right/0.40.1920.1040@0.40.1920.1040" timestamp="1592490411619" />
+    <state width="1877" height="346" key="GridCell.Tab.1.left/0.40.1920.1040@0.40.1920.1040" timestamp="1592500706713" />
+    <state width="1877" height="346" key="GridCell.Tab.1.right" timestamp="1592500706713">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.1.right/0.40.1920.1040@0.40.1920.1040" timestamp="1592500706713" />
     <state x="668" y="114" width="584" height="891" key="find.popup" timestamp="1592393785395">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="668" y="114" width="584" height="891" key="find.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1592393785395" />
-    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup" timestamp="1592401376749">
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup" timestamp="1592497994168">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1592401376749" />
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1592497994168" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
