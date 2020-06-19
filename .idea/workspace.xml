@@ -20,31 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ac2a159-b1e5-4083-af7c-c29a16ffd2ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjun/q1000/Q1152.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjun/q1000/Q1157.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjun/q2000/Q2798.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjun/q1000/Q1012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjun/q10000/Q10809.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjun/q2000/Q2447.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q1000/Q1000.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q1000/Q1001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q1000/Q1008.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q1000/Q1065.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q1000/Q1330.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q10000/Q10039.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q10000/Q10171.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q10000/Q10172.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q10000/Q10430.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q10000/Q10718.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q10000/Q10869.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q10000/Q10871.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q10000/Q10998.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q10000/Q11050.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q10000/Q11051.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q2000/Q2588.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q2000/Q2884.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q4000/Q2557.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/backjun/q8000/Q8393.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q2000/Q2798.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjun/q2000/Q2798.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,44 +74,32 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Q2798">
-    <configuration name="Q11050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjun.q10000.Q11050" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekjun.q10000.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q11051" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjun.q10000.Q11051" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekjun.q10000.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q1152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjun.q1000.Q1152" />
+  <component name="RunManager" selected="Application.Q1012">
+    <configuration name="Q1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjun.q1000.Q1012" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="baekjun.q1000.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q10809" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjun.q10000.Q10809" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjun.q10000.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,6 +113,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="baekjun.q1000.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2447" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjun.q2000.Q2447" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjun.q2000.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q1012" />
+        <item itemvalue="Application.Q2447" />
+        <item itemvalue="Application.Q10809" />
         <item itemvalue="Application.Q2798" />
         <item itemvalue="Application.Q1157" />
-        <item itemvalue="Application.Q1152" />
-        <item itemvalue="Application.Q11051" />
-        <item itemvalue="Application.Q11050" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +168,7 @@
       <updated>1592382895393</updated>
       <workItem from="1592382896868" duration="7167000" />
       <workItem from="1592487283918" duration="10056000" />
-      <workItem from="1592528051086" duration="7844000" />
+      <workItem from="1592528051086" duration="12480000" />
     </task>
     <servers />
   </component>
@@ -219,46 +200,54 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="1222" y="430" width="435" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.40.1920.1040@0.40.1920.1040" timestamp="1592496612132" />
-    <state width="423" height="466" key="DebuggerActiveHint" timestamp="1592538967940">
+    <state x="676" y="373" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1592549607183">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="423" height="466" key="DebuggerActiveHint/0.40.1920.1040@0.40.1920.1040" timestamp="1592538967940" />
-    <state width="1877" height="203" key="GridCell.Tab.0.bottom" timestamp="1592539342459">
+    <state x="676" y="373" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1592549607183" />
+    <state width="423" height="466" key="DebuggerActiveHint" timestamp="1592554914320">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="203" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1592539342459" />
-    <state width="1877" height="203" key="GridCell.Tab.0.center" timestamp="1592539342459">
+    <state width="423" height="466" key="DebuggerActiveHint/0.40.1920.1040@0.40.1920.1040" timestamp="1592554914320" />
+    <state width="1877" height="201" key="GridCell.Tab.0.bottom" timestamp="1592555283458">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="203" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1592539342459" />
-    <state width="1877" height="203" key="GridCell.Tab.0.left" timestamp="1592539342459">
+    <state width="1877" height="201" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1592555283458" />
+    <state width="1877" height="201" key="GridCell.Tab.0.center" timestamp="1592555283457">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="203" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1592539342459" />
-    <state width="1877" height="203" key="GridCell.Tab.0.right" timestamp="1592539342459">
+    <state width="1877" height="201" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1592555283457" />
+    <state width="1877" height="201" key="GridCell.Tab.0.left" timestamp="1592555283457">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="203" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1592539342459" />
-    <state width="1877" height="346" key="GridCell.Tab.1.bottom" timestamp="1592539116809">
+    <state width="1877" height="201" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1592555283457" />
+    <state width="1877" height="201" key="GridCell.Tab.0.right" timestamp="1592555283458">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="346" key="GridCell.Tab.1.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1592539116809" />
-    <state width="1877" height="346" key="GridCell.Tab.1.center" timestamp="1592539116808">
+    <state width="1877" height="201" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1592555283458" />
+    <state width="1877" height="345" key="GridCell.Tab.1.bottom" timestamp="1592555025910">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="346" key="GridCell.Tab.1.center/0.40.1920.1040@0.40.1920.1040" timestamp="1592539116808" />
-    <state width="1877" height="346" key="GridCell.Tab.1.left" timestamp="1592539116808">
+    <state width="1877" height="345" key="GridCell.Tab.1.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1592555025910" />
+    <state width="1877" height="345" key="GridCell.Tab.1.center" timestamp="1592555025910">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="346" key="GridCell.Tab.1.left/0.40.1920.1040@0.40.1920.1040" timestamp="1592539116808" />
-    <state width="1877" height="346" key="GridCell.Tab.1.right" timestamp="1592539116809">
+    <state width="1877" height="345" key="GridCell.Tab.1.center/0.40.1920.1040@0.40.1920.1040" timestamp="1592555025910" />
+    <state width="1877" height="345" key="GridCell.Tab.1.left" timestamp="1592555025910">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="346" key="GridCell.Tab.1.right/0.40.1920.1040@0.40.1920.1040" timestamp="1592539116809" />
+    <state width="1877" height="345" key="GridCell.Tab.1.left/0.40.1920.1040@0.40.1920.1040" timestamp="1592555025910" />
+    <state width="1877" height="345" key="GridCell.Tab.1.right" timestamp="1592555025910">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="345" key="GridCell.Tab.1.right/0.40.1920.1040@0.40.1920.1040" timestamp="1592555025910" />
     <state x="668" y="114" width="584" height="891" key="find.popup" timestamp="1592528302268">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="668" y="114" width="584" height="891" key="find.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1592528302268" />
+    <state x="616" y="260" key="run.anything.popup" timestamp="1592549602865">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="616" y="260" key="run.anything.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1592549602865" />
     <state x="623" y="265" width="672" height="678" key="search.everywhere.popup" timestamp="1592497994168">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
@@ -277,6 +266,11 @@
           <line>48</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekjun/q1000/Q1012.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -286,6 +280,8 @@
         <watch expression="case2String.charAt(2)" language="JAVA" />
         <watch expression="String.valueOf(case2String.charAt(i)" language="JAVA" />
         <watch expression="case1" language="JAVA" />
+        <watch expression="print(arr)" language="JAVA" />
+        <watch expression="print(arr);" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
