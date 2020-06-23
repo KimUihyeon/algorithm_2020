@@ -1,4 +1,4 @@
-package baekjun.q10000;
+package baekjun.q11000;
 
 import java.util.Scanner;
 

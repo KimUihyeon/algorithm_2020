@@ -20,10 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ac2a159-b1e5-4083-af7c-c29a16ffd2ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjun/q10000/Q10872.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjun/q2000/Q2908.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjun/q6000/Q6378.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjun/q11000/Q11048.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjun/q11000/Q11721.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjun/q11000/Q11866.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/Util.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/baekjun/q10000/Q11050.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjun/q11000/Q11050.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/baekjun/q10000/Q11051.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjun/q11000/Q11051.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q10000/Q11050.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q10000/Q11051.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +42,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="algClass" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -79,39 +84,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Q6378">
-    <configuration name="Q1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjun.q1000.Q1012" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekjun.q1000.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q1032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjun.q1000.Q1032" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekjun.q1000.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q11048">
     <configuration name="Q10872" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjun.q10000.Q10872" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjun.q10000.*" />
+          <option name="PATTERN" value="baekjun.q11000.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +98,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2908" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjun.q2000.Q2908" />
+    <configuration name="Q11048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjun.q11000.Q11048" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjun.q2000.*" />
+          <option name="PATTERN" value="baekjun.q11000.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q11721" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjun.q11000.Q11721" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjun.q11000.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q11866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjun.q11000.Q11866" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjun.q11000.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q11048" />
+        <item itemvalue="Application.Q11721" />
+        <item itemvalue="Application.Q11866" />
         <item itemvalue="Application.Q6378" />
         <item itemvalue="Application.Q10872" />
-        <item itemvalue="Application.Q2908" />
-        <item itemvalue="Application.Q1032" />
-        <item itemvalue="Application.Q1012" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +175,8 @@
       <workItem from="1592528051086" duration="12672000" />
       <workItem from="1592562087110" duration="599000" />
       <workItem from="1592662825333" duration="1708000" />
-      <workItem from="1592833728113" duration="2865000" />
+      <workItem from="1592833728113" duration="3923000" />
+      <workItem from="1592918060833" duration="4878000" />
     </task>
     <servers />
   </component>
@@ -210,50 +216,50 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state width="423" height="466" key="DebuggerActiveHint/0.40.1920.1040@0.40.1920.1040" timestamp="1592554914320" />
-    <state width="1877" height="198" key="GridCell.Tab.0.bottom" timestamp="1592836173810">
+    <state width="1877" height="342" key="GridCell.Tab.0.bottom" timestamp="1592922916573">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="198" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1592836173810" />
-    <state width="1877" height="198" key="GridCell.Tab.0.center" timestamp="1592836173810">
+    <state width="1877" height="342" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1592922916573" />
+    <state width="1877" height="342" key="GridCell.Tab.0.center" timestamp="1592922916573">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="198" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1592836173810" />
-    <state width="1877" height="198" key="GridCell.Tab.0.left" timestamp="1592836173810">
+    <state width="1877" height="342" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1592922916573" />
+    <state width="1877" height="342" key="GridCell.Tab.0.left" timestamp="1592922916573">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="198" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1592836173810" />
-    <state width="1877" height="198" key="GridCell.Tab.0.right" timestamp="1592836173810">
+    <state width="1877" height="342" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1592922916573" />
+    <state width="1877" height="342" key="GridCell.Tab.0.right" timestamp="1592922916573">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="198" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1592836173810" />
-    <state width="1877" height="343" key="GridCell.Tab.1.bottom" timestamp="1592836106663">
+    <state width="1877" height="342" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1592922916573" />
+    <state width="1877" height="342" key="GridCell.Tab.1.bottom" timestamp="1592922917891">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.1.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1592836106663" />
-    <state width="1877" height="343" key="GridCell.Tab.1.center" timestamp="1592836106662">
+    <state width="1877" height="342" key="GridCell.Tab.1.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1592922917891" />
+    <state width="1877" height="342" key="GridCell.Tab.1.center" timestamp="1592922917891">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.1.center/0.40.1920.1040@0.40.1920.1040" timestamp="1592836106662" />
-    <state width="1877" height="343" key="GridCell.Tab.1.left" timestamp="1592836106662">
+    <state width="1877" height="342" key="GridCell.Tab.1.center/0.40.1920.1040@0.40.1920.1040" timestamp="1592922917891" />
+    <state width="1877" height="342" key="GridCell.Tab.1.left" timestamp="1592922917890">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.1.left/0.40.1920.1040@0.40.1920.1040" timestamp="1592836106662" />
-    <state width="1877" height="343" key="GridCell.Tab.1.right" timestamp="1592836106663">
+    <state width="1877" height="342" key="GridCell.Tab.1.left/0.40.1920.1040@0.40.1920.1040" timestamp="1592922917890" />
+    <state width="1877" height="342" key="GridCell.Tab.1.right" timestamp="1592922917891">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.1.right/0.40.1920.1040@0.40.1920.1040" timestamp="1592836106663" />
+    <state width="1877" height="342" key="GridCell.Tab.1.right/0.40.1920.1040@0.40.1920.1040" timestamp="1592922917891" />
     <state x="668" y="114" width="584" height="891" key="find.popup" timestamp="1592833791748">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="668" y="114" width="584" height="891" key="find.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1592833791748" />
-    <state x="616" y="260" key="run.anything.popup" timestamp="1592549602865">
+    <state x="616" y="260" key="run.anything.popup" timestamp="1592922108343">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="616" y="260" key="run.anything.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1592549602865" />
-    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup" timestamp="1592497994168">
+    <state x="616" y="260" key="run.anything.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1592922108343" />
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup" timestamp="1592922278050">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1592497994168" />
+    <state x="623" y="265" width="672" height="678" key="search.everywhere.popup/0.40.1920.1040@0.40.1920.1040" timestamp="1592922278050" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -278,19 +284,23 @@
           <line>43</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekjun/q11000/Q11866.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekjun/q11000/Q11048.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekjun/q11000/Q11048.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="case2String[2]" language="JAVA" />
-        <watch expression="case2String.charAt(2)" language="JAVA" />
-        <watch expression="case2String.charAt(2)" language="JAVA" />
-        <watch expression="String.valueOf(case2String.charAt(i)" language="JAVA" />
-        <watch expression="case1" language="JAVA" />
-        <watch expression="print(arr)" language="JAVA" />
-        <watch expression="print(arr);" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="masterDetails">
     <states>
