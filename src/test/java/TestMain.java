@@ -1,4 +1,4 @@
-import baekjun.q4000.Q2557;
+import baekjoon.q4000.Q2557;
 import org.junit.Test;
 
 public class TestMain {
