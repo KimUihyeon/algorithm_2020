@@ -20,76 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ac2a159-b1e5-4083-af7c-c29a16ffd2ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1267.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/q10000/Q10093.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/q10000/Q10804.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2480.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2562.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2753.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1000.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1032.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1065.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1152.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1157.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1267.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1330.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10093.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10171.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10172.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10718.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10804.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10809.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10869.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10871.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10872.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10998.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q11000/Q11048.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q11000/Q11721.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q11000/Q11866.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2480.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2562.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2588.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2753.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2884.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2908.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q4000/Q2557.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q6000/Q6378.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q8000/Q8393.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1918.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1935.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/q10000/Q10824.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/q11000/Q11656.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2743.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Algorithm.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q1000/Q1000.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q1000/Q1001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q1000/Q1008.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1008.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q1000/Q1012.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1012.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q1000/Q1032.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q1000/Q1065.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q1000/Q1152.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q1000/Q1157.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q1000/Q1330.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q10000/Q10039.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10039.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q10000/Q10171.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q10000/Q10172.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q10000/Q10430.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10430.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q10000/Q10718.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q10000/Q10809.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q10000/Q10869.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q10000/Q10871.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q10000/Q10872.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q10000/Q10998.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q11000/Q11048.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q11000/Q11050.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q11000/Q11050.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q11000/Q11051.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q11000/Q11051.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q11000/Q11721.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q11000/Q11866.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q2000/Q2588.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q2000/Q2798.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2798.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q2000/Q2884.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q2000/Q2908.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q4000/Q2557.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q6000/Q6378.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjun/q8000/Q8393.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestMain.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -105,66 +41,58 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2480.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1935.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="32" column="39" lean-forward="true" selection-end-line="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2753.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="31" lean-forward="true" selection-end-line="39" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q10000/Q10093.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="30" column="30" selection-end-line="57" selection-end-column="4" />
+            <state relative-caret-position="275">
+              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#946#947#0" expanded="true" />
-                <element signature="e#983#984#0" expanded="true" />
-                <element signature="e#1030#1031#0" expanded="true" />
-                <element signature="e#1067#1068#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1267.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1918.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="71" selection-end-line="73" selection-end-column="4" />
+            <state relative-caret-position="315">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
               <folding>
-                <element signature="e#1656#1657#0" expanded="true" />
-                <element signature="e#1709#1710#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q10000/Q10804.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q11000/Q11656.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="167">
+              <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q10000/Q10824.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2562.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2743.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="408">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -193,6 +121,11 @@
         <option value="$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1267.java" />
         <option value="$PROJECT_DIR$/src/main/java/baekjoon/q10000/Q10804.java" />
         <option value="$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2562.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1935.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1918.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekjoon/q11000/Q11656.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekjoon/q10000/Q10824.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2743.java" />
       </list>
     </option>
   </component>
@@ -331,9 +264,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q2562">
-    <configuration name="Q10093" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.q10000.Q10093" />
+  <component name="RunManager" selected="Application.Q2743">
+    <configuration name="Q10824" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.q10000.Q10824" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -345,12 +278,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q10804" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.q10000.Q10804" />
+    <configuration name="Q11656" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.q11000.Q11656" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon.q10000.*" />
+          <option name="PATTERN" value="baekjoon.q11000.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,8 +291,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1267" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.q1000.Q1267" />
+    <configuration name="Q1935" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.q1000.Q1935" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -384,8 +317,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2753" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.q2000.Q2753" />
+    <configuration name="Q2743" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.q2000.Q2743" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -399,11 +332,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q2743" />
+        <item itemvalue="Application.Q10824" />
+        <item itemvalue="Application.Q11656" />
+        <item itemvalue="Application.Q1935" />
         <item itemvalue="Application.Q2562" />
-        <item itemvalue="Application.Q10804" />
-        <item itemvalue="Application.Q1267" />
-        <item itemvalue="Application.Q10093" />
-        <item itemvalue="Application.Q2753" />
       </list>
     </recent_temporary>
   </component>
@@ -431,7 +364,7 @@
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2081545" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2081545" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -442,8 +375,8 @@
       <window_info anchor="bottom" id="Messages" weight="0.32866243" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32356688" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39363056" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32229298" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3910828" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -609,6 +542,12 @@
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1935.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -667,17 +606,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2480.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2562.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="32" column="39" lean-forward="true" selection-end-line="74" />
+        <state relative-caret-position="397">
+          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2753.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q10000/Q10804.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="31" lean-forward="true" selection-end-line="39" selection-end-column="4" />
+        <state relative-caret-position="1071">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1267.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="71" selection-end-line="73" selection-end-column="4" />
+          <folding>
+            <element signature="e#1656#1657#0" expanded="true" />
+            <element signature="e#1709#1710#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -695,28 +645,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1267.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2753.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="71" selection-end-line="73" selection-end-column="4" />
+        <state relative-caret-position="246">
+          <caret line="31" lean-forward="true" selection-end-line="39" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2480.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="32" column="39" lean-forward="true" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="536" column="25" selection-start-line="536" selection-start-column="25" selection-end-line="536" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1935.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
           <folding>
-            <element signature="e#1656#1657#0" expanded="true" />
-            <element signature="e#1709#1710#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q10000/Q10804.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1918.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        <state relative-caret-position="315">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2562.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q11000/Q11656.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="167">
+          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q10000/Q10824.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2743.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
