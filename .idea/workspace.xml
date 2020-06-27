@@ -31,10 +31,52 @@
       <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q11000/Q11656.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2743.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1000.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1000.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1001.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1008.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1008.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1012.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1012.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1032.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1032.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1065.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1065.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1152.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1152.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1157.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1157.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1267.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1267.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1330.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1330.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10039.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10039.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10093.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10093.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10171.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10171.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10172.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10172.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10430.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10430.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10718.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10718.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10804.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10804.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10809.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10809.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10869.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10869.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10871.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10871.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10872.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10872.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10998.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10998.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q11000/Q11048.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q11000/Q11048.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q11000Q11050.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q11000/Q11050.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q11000/Q11051.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q11000/Q11051.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q11000/Q11721.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q11000/Q11721.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q11000/Q11866.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q11000/Q11866.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2480.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2480.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2562.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2562.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2588.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2588.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2753.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2753.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2798.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2798.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2884.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2884.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2908.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2908.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q4000/Q2557.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q4000/Q2557.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q6000/Q6378.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q6000/Q6378.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/q8000/Q8393.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/q8000/Q8393.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestMain.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/classes/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,96 +185,6 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="backjun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm_2020" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="backjun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm_2020" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="backjun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm_2020" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="backjun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm_2020" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="backjun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm_2020" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="backjun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm_2020" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="q1000" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="backjun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm_2020" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="q2000" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="backjun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm_2020" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="q10000" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="backjun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm_2020" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="q11000" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="backjun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm_2020" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -268,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q2743">
+  <component name="RunManager" selected="Application.Q1935">
     <configuration name="Q10824" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjoon.q10000.Q10824" />
       <module name="Algorithm" />
@@ -288,6 +240,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="baekjoon.q11000.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q15552" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.q15000.Q15552" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.q15000.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,25 +286,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2743" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.q2000.Q2743" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekjoon.q2000.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q2743" />
         <item itemvalue="Application.Q10824" />
         <item itemvalue="Application.Q11656" />
         <item itemvalue="Application.Q1935" />
+        <item itemvalue="Application.Q2562" />
+        <item itemvalue="Application.Q15552" />
         <item itemvalue="Application.Q2562" />
       </list>
     </recent_temporary>
@@ -360,7 +313,7 @@
       <workItem from="1592562087110" duration="599000" />
       <workItem from="1592662825333" duration="1708000" />
       <workItem from="1592833728113" duration="3923000" />
-      <workItem from="1592918060833" duration="5648000" />
+      <workItem from="1592918060833" duration="7488000" />
     </task>
     <servers />
   </component>
@@ -408,14 +361,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -434,8 +380,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="134" key="#Project_Structure" timestamp="1593181026097">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="440" y="134" key="#Project_Structure/0.40.1920.1040@0.40.1920.1040" timestamp="1593181026097" />
     <state x="602" y="247" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1592393626110">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
@@ -456,38 +407,38 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state width="423" height="466" key="DebuggerActiveHint/0.40.1920.1040@0.40.1920.1040" timestamp="1592554914320" />
-    <state width="1877" height="342" key="GridCell.Tab.0.bottom" timestamp="1592922970283">
+    <state width="1877" height="195" key="GridCell.Tab.0.bottom" timestamp="1593181515643">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="342" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1592922970283" />
-    <state width="1877" height="342" key="GridCell.Tab.0.center" timestamp="1592922970283">
+    <state width="1877" height="195" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1593181515643" />
+    <state width="1877" height="195" key="GridCell.Tab.0.center" timestamp="1593181515642">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="342" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1592922970283" />
-    <state width="1877" height="342" key="GridCell.Tab.0.left" timestamp="1592922970283">
+    <state width="1877" height="195" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1593181515642" />
+    <state width="1877" height="195" key="GridCell.Tab.0.left" timestamp="1593181515642">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="342" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1592922970283" />
-    <state width="1877" height="342" key="GridCell.Tab.0.right" timestamp="1592922970283">
+    <state width="1877" height="195" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1593181515642" />
+    <state width="1877" height="195" key="GridCell.Tab.0.right" timestamp="1593181515642">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="342" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1592922970283" />
-    <state width="1877" height="342" key="GridCell.Tab.1.bottom" timestamp="1592922970284">
+    <state width="1877" height="195" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1593181515642" />
+    <state width="1877" height="341" key="GridCell.Tab.1.bottom" timestamp="1593179895167">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="342" key="GridCell.Tab.1.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1592922970284" />
-    <state width="1877" height="342" key="GridCell.Tab.1.center" timestamp="1592922970284">
+    <state width="1877" height="341" key="GridCell.Tab.1.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1593179895167" />
+    <state width="1877" height="341" key="GridCell.Tab.1.center" timestamp="1593179895166">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="342" key="GridCell.Tab.1.center/0.40.1920.1040@0.40.1920.1040" timestamp="1592922970284" />
-    <state width="1877" height="342" key="GridCell.Tab.1.left" timestamp="1592922970284">
+    <state width="1877" height="341" key="GridCell.Tab.1.center/0.40.1920.1040@0.40.1920.1040" timestamp="1593179895166" />
+    <state width="1877" height="341" key="GridCell.Tab.1.left" timestamp="1593179895166">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="342" key="GridCell.Tab.1.left/0.40.1920.1040@0.40.1920.1040" timestamp="1592922970284" />
-    <state width="1877" height="342" key="GridCell.Tab.1.right" timestamp="1592922970284">
+    <state width="1877" height="341" key="GridCell.Tab.1.left/0.40.1920.1040@0.40.1920.1040" timestamp="1593179895166" />
+    <state width="1877" height="341" key="GridCell.Tab.1.right" timestamp="1593179895166">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
-    <state width="1877" height="342" key="GridCell.Tab.1.right/0.40.1920.1040@0.40.1920.1040" timestamp="1592922970284" />
+    <state width="1877" height="341" key="GridCell.Tab.1.right/0.40.1920.1040@0.40.1920.1040" timestamp="1593179895166" />
     <state x="668" y="114" width="584" height="891" key="find.popup" timestamp="1592833791748">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
@@ -505,45 +456,38 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/baekjun/q2000/Q2588.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2588.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/baekjun/q1000/Q1065.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1065.java</url>
           <line>48</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/baekjun/q1000/Q1012.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1012.java</url>
           <line>55</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/baekjun/q2000/Q2908.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2908.java</url>
           <line>43</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/baekjun/q11000/Q11866.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/baekjoon/q11000/Q11866.java</url>
           <line>46</line>
-          <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/baekjoon/q10000/Q10093.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1267.java</url>
           <line>53</line>
-          <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -573,233 +517,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2798.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2884.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q555.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2588.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q11000/Q11866.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="56" column="9" lean-forward="true" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2562.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q10000/Q10804.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1267.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="71" selection-end-line="73" selection-end-column="4" />
-          <folding>
-            <element signature="e#1656#1657#0" expanded="true" />
-            <element signature="e#1709#1710#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q10000/Q10093.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="30" column="30" selection-end-line="57" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#946#947#0" expanded="true" />
-            <element signature="e#983#984#0" expanded="true" />
-            <element signature="e#1030#1031#0" expanded="true" />
-            <element signature="e#1067#1068#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2753.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="31" lean-forward="true" selection-end-line="39" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2480.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="32" column="39" lean-forward="true" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Double.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="536" column="25" selection-start-line="536" selection-start-column="25" selection-end-line="536" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1935.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q1000/Q1918.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q11000/Q11656.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q10000/Q10824.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2743.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Algorithm</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
