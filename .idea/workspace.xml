@@ -25,6 +25,11 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/q10000/Q10824.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/q11000/Q11656.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2743.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1918.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q1000/Q1935.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q10000/Q10824.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q11000/Q11656.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/baekjoon/q2000/Q2743.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -91,8 +96,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2743.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="170">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -129,11 +134,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="314" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="877" />
+    <option name="height" value="439" />
   </component>
   <component name="ProjectId" id="1dRLKaSy2IYs1Y6Xhrw312K39CX" />
   <component name="ProjectLevelVcsManager">
@@ -361,10 +365,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="439" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2081545" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2081545" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -375,7 +379,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32866243" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32229298" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32229298" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3910828" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -708,8 +712,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/q2000/Q2743.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
