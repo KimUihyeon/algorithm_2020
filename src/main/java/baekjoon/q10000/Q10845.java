@@ -71,7 +71,7 @@ public class Q10845 {
 
         if(!outputString.isEmpty()){
             out.write(outputString);
-            out.newLine();
+            out.newLine(); 
         }
     }
 
