@@ -71,10 +71,10 @@ public class Q10845 {
 
         if(!outputString.isEmpty()){
             out.write(outputString);
-            out.newLine(); 
+            out.newLine();
         }
     }
-
+ 
     public static class Stack {
         private int[] arr;
         private int size;
