@@ -74,7 +74,7 @@ public class Q10845 {
             out.newLine();
         }
     }
-
+ 
     public static class Stack {
         private int[] arr;
         private int size;
