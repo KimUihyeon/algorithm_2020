@@ -29,7 +29,7 @@ public class Q16194 {
 
         for(int i = 0 ; i< dp.length ;i ++){
 
-            
+
         }
 
 
