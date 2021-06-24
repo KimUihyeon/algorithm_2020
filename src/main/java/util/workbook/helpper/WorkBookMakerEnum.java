@@ -1,9 +1,9 @@
-package util;
+package util.workbook.helpper;
 
 /**
  * WorkBokkMakerEnum
  *
- * @author Kimuihyeon
+ * @author kuh
  * @since 2021.06.24
  */
 public class WorkBookMakerEnum {
@@ -17,9 +17,7 @@ public class WorkBookMakerEnum {
     public final String PROBLEM_OUTPUT_ID = "#problem_input p"; // 출력
     public final String SAMPLE_OUTPUT_ID = "#sample-output-1";  // 출력
 
-
-
-    // 치환문자열
+    // 치환문자열 (Comment)
     public final String PROBLEM_ID_SPOT = "[@problem_id]";
     public final String URL_SPOT = "[@url]";
     public final String AUTHOR_SPOT = "[@author]";
@@ -28,10 +26,14 @@ public class WorkBookMakerEnum {
     public final String INPUT_SPOT = "[@input]";
     public final String OUTPUT_SPOT = "[@output]";
 
+
+    // 치환문자열 (class)
+    public final String CLASS_NAME_SPOT = "[@class_name]";
+
     public String getCommentFormat() {
         return "/**\n" +
                 " * 백준 알고리즘 " + PROBLEM_ID_SPOT + "\n" +
-                " * url -> " + URL_SPOT + "\n" +
+                " * " + URL_SPOT + "\n" +
                 " *\n" +
                 " * @author " + AUTHOR_SPOT + "\n" +
                 " * @since " + SINCE_SPOT + "\n" +
@@ -46,5 +48,29 @@ public class WorkBookMakerEnum {
                 OUTPUT_SPOT + "\n" +
                 " *\n" +
                 " */";
+    }
+
+
+    public String getClassFormat(){
+        return "\n" +
+                "public class " + CLASS_NAME_SPOT + " {\n" +
+                "    public static void main(String[] arg){\n" +
+                "        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));\n" +
+                "        BufferedWriter out = new BufferedWriter(new OutputStreamWriter(System.out));\n" +
+                "\n" +
+                "        try{\n" +
+                "\n" +
+                "        }catch (Exception e){\n" +
+                "        }finally {\n" +
+                "            try {\n" +
+                "                in.close();\n" +
+                "                out.flush();\n" +
+                "                out.close();\n" +
+                "            } catch (IOException e) {\n" +
+                "                e.printStackTrace();\n" +
+                "            }\n" +
+                "        }\n" +
+                "    }\n" +
+                "}";
     }
 }
