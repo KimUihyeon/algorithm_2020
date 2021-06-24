@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 /**
  * 백준 알고리즘 Q15552
  *
- * @author Kimuihyeon
+ * @author kuh
  * @Q
  * @input
  * @output

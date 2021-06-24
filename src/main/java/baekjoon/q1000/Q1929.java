@@ -7,7 +7,7 @@ import java.io.*;
 /**
  * 백준 알고리즘 Q1929
  *
- * @author Kimuihyeon
+ * @author kuh
  * @since 2020.06.29
  *
  * @Q

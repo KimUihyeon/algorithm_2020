@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * 백준 알고리즘 Q1032
  *
- * @author Kimuihyeon
+ * @author kuh
  * @since 2020.06.20
  *
  * @Q

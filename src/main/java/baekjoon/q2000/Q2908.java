@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * 백준 알고리즘 Q2908
  *
- * @author Kimuihyeon
+ * @author kuh
  * @since 2020.06.22
  *
  * @Q

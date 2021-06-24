@@ -5,7 +5,7 @@ import java.io.*;
 /**
  * 백준 알고리즘 Q14681
  *
- * @author Kimuihyeon
+ * @author kuh
  * @since 2021.06.21
  *
  * @Q

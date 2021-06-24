@@ -3,7 +3,7 @@ package baekjoon.q10000;
 /**
  * 백준 알고리즘 10172
  *
- * @author Kimuihyeon
+ * @author kuh
  * @since 2020.06.17
  *
  * @Q

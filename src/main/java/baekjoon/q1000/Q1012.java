@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 백준 알고리즘 Q1012
  * https://www.acmicpc.net/problem/1012
  *
- * @author Kimuihyeon
+ * @author kuh
  * @since 2020.06.19
  *
  * @

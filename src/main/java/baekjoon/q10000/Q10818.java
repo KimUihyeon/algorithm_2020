@@ -5,7 +5,7 @@ import java.io.*;
 /**
  * 백준 알고리즘 10818
  *
- * @author Kimuihyeon
+ * @author kuh
  * @since 2021.06.24
  *
  * @Q
