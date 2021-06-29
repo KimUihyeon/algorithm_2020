@@ -21,12 +21,12 @@ public class Q10872 {
     public static void main(String[] arg) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
-        int[] factorial  = new int[12];
+        int[] factorial  = new int[13];
         factorial[0] = 1;
         for (int i = 1; i < factorial.length; i++) {
-            factorial[i] = factorial[i-1] * (i+1);
+            factorial[i] = factorial[i-1] * (i);
         }
 
-        System.out.println(factorial[N-1]);
+        System.out.println(factorial[N]);
     }
 }

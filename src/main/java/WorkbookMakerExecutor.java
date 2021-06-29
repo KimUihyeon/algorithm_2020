@@ -12,7 +12,7 @@ import java.awt.datatransfer.StringSelection;
  */
 public class WorkbookMakerExecutor {
 
-    private final static int id = 1004;
+    private final static int id = 10870;
 
     public static void main(String[] arg) {
         run("https://www.acmicpc.net/problem/" + id);
